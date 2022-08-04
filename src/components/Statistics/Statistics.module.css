@@ -1,0 +1,14 @@
+.list{
+padding-left: 0px;
+}
+.item {
+    list-style: none;
+    display: flex;
+    
+}
+.description{
+    margin-right: 25px;
+}
+.value{
+    font-weight: 700;
+}
